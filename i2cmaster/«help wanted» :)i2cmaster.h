@@ -6,7 +6,9 @@
 * Author:   Peter Fleury <pfleury@gmx.ch>  http://jump.to/fleury
 * File:     $Id: i2cmaster.h,v 1.10 2005/03/06 22:39:57 Peter Exp $
 * Software: AVR-GCC 3.4.3 / avr-libc 1.2.3
-* Target:   any AVR device
+* Target:   any AVR device <-I'm sorry, but how I can use this library with esp32
+I'm sorry, I'm a beginner and don't know how to make requests. As I understand it, I have a problem in avr/io.h
+Can you help me???
 * Usage:    see Doxygen manual
 **************************************************************************/
 
